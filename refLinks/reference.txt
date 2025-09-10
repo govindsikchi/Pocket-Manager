@@ -1,0 +1,12 @@
+-File and images Uploading on websites:https://www.youtube.com/watch?v=JaRq73y5MJk&list=LL&index=24
+
+-File zip in php: https://code.tutsplus.com/tutorials/file-compression-and-extraction-in-php--cms-31977 
+
+-Image Comression: https://code-boxx.com/compress-images-php/
+
+-File Compression: https://www.php.net/manual/en/wrappers.compression.php
+
+-File Compress 2: https://www.php.net/manual/en/function.gzcompress.php
+
+
+
